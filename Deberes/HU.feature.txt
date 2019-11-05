@@ -1,0 +1,21 @@
+Feature: Visualize the score obtained in the games
+Scenario: at the end of a game
+    Given finish in the game
+    When I confirm "Ok"
+    Then I get the score
+Scenario: in the middle of the game
+    Given finish in the game
+    When I stop the game 
+    And  I confirm the end the game
+    Then I get the score 
+
+Feature: Take characteristics of one image and compare with another
+Scenario: upload the image
+    Given a image in format JPG
+    And I select the date 
+    When I select the principal characteristics
+    Then Show results 20 by 20
+Scenario: non sharp images
+    Give a image in other format
+    When I select the principal characteristics
+    Then the system must warn that it is not possible to see in that image
