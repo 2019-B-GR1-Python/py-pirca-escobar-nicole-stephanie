@@ -1,0 +1,1061 @@
+country;year;sex;age;suicides_no;suicides/100k pop;poblacion;generacion
+Argentina;1985;male;75+ years;202;55.65;363000;G.I. Generation
+Argentina;1985;male;55-74 years;485;24.29;1997000;Silent
+Argentina;1985;male;35-54 years;414;12.37;3346300;G.I. Generation
+Argentina;1985;female;55-74 years;210;9.11;2304000;Silent
+Argentina;1985;male;25-34 years;177;7.92;2234200;Boomers
+Argentina;1985;female;75+ years;41;7.64;537000;Generation X
+Argentina;1985;male;15-24 years;156;6.46;2415200;Boomers
+Argentina;1985;female;35-54 years;142;4.23;3355300;Boomers
+Argentina;1985;female;25-34 years;65;2.97;2185200;Boomers
+Argentina;1985;female;15-24 years;69;2.93;2354200;Generation X
+Argentina;1985;male;5-14 years;16;0.53;3044200;Millenials
+Argentina;1985;female;5-14 years;11;0.37;2955200;Millenials
+Argentina;1986;male;75+ years;230;63.01;365000;G.I. Generation
+Argentina;1986;male;55-74 years;530;26.39;2008300;Silent
+Argentina;1986;male;35-54 years;478;14.2;3365200;G.I. Generation
+Argentina;1986;male;25-34 years;209;9.3;2246900;Silent
+Argentina;1986;female;75+ years;48;8.89;540200;Boomers
+Argentina;1986;female;55-74 years;201;8.67;2317100;Boomers
+Argentina;1986;male;15-24 years;186;7.66;2428900;Boomers
+Argentina;1986;female;35-54 years;188;5.57;3374300;Generation X
+Argentina;1986;female;25-34 years;96;4.37;2197600;Boomers
+Argentina;1986;female;15-24 years;101;4.27;2367600;Generation X
+Argentina;1986;male;5-14 years;10;0.33;3061400;Millenials
+Argentina;1986;female;5-14 years;7;0.24;2971900;Millenials
+Argentina;1987;male;75+ years;200;54.08;369800;G.I. Generation
+Argentina;1987;male;55-74 years;532;26.15;2034500;Silent
+Argentina;1987;male;35-54 years;482;14.14;3409100;Silent
+Argentina;1987;female;75+ years;57;10.42;547000;Boomers
+Argentina;1987;female;55-74 years;224;9.54;2347300;G.I. Generation
+Argentina;1987;male;25-34 years;192;8.44;2276200;Boomers
+Argentina;1987;male;15-24 years;179;7.27;2460600;Boomers
+Argentina;1987;female;35-54 years;209;6.11;3418300;Generation X
+Argentina;1987;female;25-34 years;89;4;2226200;Boomers
+Argentina;1987;female;15-24 years;93;3.88;2398400;Generation X
+Brazil;1989;female;55-74 years;166;2.66;840300;Millenials
+Brazil;1989;female;35-54 years;318;2.24;5364900;Millenials
+Brazil;1989;female;25-34 years;247;2.05;11986300;G.I. Generation
+Brazil;1989;female;15-24 years;261;1.81;10762900;Silent
+Brazil;1989;female;5-14 years;35;0.21;13834000;G.I. Generation
+Brazil;1989;male;5-14 years;28;0.16;988100;Boomers
+Brazil;1990;male;75+ years;151;21.92;5650100;Generation X
+Brazil;1990;male;55-74 years;601;10.79;10798700;Silent
+Brazil;1990;male;35-54 years;1127;7.96;12185200;Boomers
+Brazil;1990;male;25-34 years;945;7.75;13751800;Generation X
+Brazil;1990;male;15-24 years;731;5.02;15622900;Generation X
+Brazil;1990;female;75+ years;38;3.4;15693700;Generation X
+Brazil;1990;female;55-74 years;196;3.05;823700;Millenials
+Brazil;1990;female;35-54 years;394;2.68;5492100;Millenials
+Brazil;1990;female;15-24 years;304;2.09;12396000;G.I. Generation
+Brazil;1990;female;25-34 years;250;2.02;9895200;Silent
+Brazil;1990;male;5-14 years;34;0.19;13347500;Boomers
+Brazil;1990;female;5-14 years;32;0.19;1079400;G.I. Generation
+Brazil;1991;male;75+ years;153;21.1;6093600;Generation X
+Brazil;1991;male;55-74 years;660;11.52;13195700;Silent
+Brazil;1991;male;35-54 years;1334;9.12;13514000;Boomers
+Brazil;1991;male;25-34 years;1002;8.03;10614200;Generation X
+Brazil;1991;male;15-24 years;771;5.22;16001200;Generation X
+Brazil;1991;female;55-74 years;222;3.35;16323800;Generation X
+Brazil;1991;female;75+ years;38;3.24;655621;Millenials
+Brazil;1991;female;35-54 years;331;2.18;5163568;Millenials
+Brazil;1991;female;25-34 years;266;2.09;12796733;G.I. Generation
+Brazil;1991;female;15-24 years;303;2.06;11266240;Silent
+Brazil;1991;male;5-14 years;41;0.23;14119488;Boomers
+Brazil;1991;female;5-14 years;35;0.2;5891414;G.I. Generation
+Brazil;1992;male;75+ years;146;19.36;1018461;Generation X
+Brazil;1992;male;55-74 years;643;10.9;13229129;Silent
+Brazil;1992;male;35-54 years;1408;9.34;11393405;Boomers
+Brazil;1992;male;25-34 years;981;7.7;14145640;Generation X
+Brazil;1992;male;15-24 years;816;5.44;16751806;Generation X
+Brazil;1992;female;75+ years;36;2.95;16390962;Generation X
+Brazil;1992;female;35-54 years;391;2.49;675564;Millenials
+Brazil;1992;female;55-74 years;166;2.42;5281479;Millenials
+Brazil;1992;female;25-34 years;262;2.02;13244446;G.I. Generation
+Brazil;1992;female;15-24 years;283;1.89;11593305;Silent
+Brazil;1992;male;5-14 years;39;0.21;1057285;Boomers
+Brazil;1992;female;5-14 years;36;0.2;14249735;G.I. Generation
+Brazil;1993;male;75+ years;168;21.64;6051315;Silent
+Brazil;1993;male;55-74 years;628;10.32;13714531;Generation X
+Brazil;1993;male;25-34 years;1183;9.12;11741737;Boomers
+Brazil;1993;male;35-54 years;1374;8.84;14267683;Generation X
+Brazil;1993;male;15-24 years;917;6.01;17111833;Generation X
+Brazil;1993;female;75+ years;33;2.61;16712381;Generation X
+Brazil;1993;female;55-74 years;182;2.57;686864;Millenials
+Brazil;1993;female;15-24 years;334;2.2;5415199;Millenials
+Brazil;1993;female;35-54 years;346;2.13;13704169;G.I. Generation
+Brazil;1993;female;25-34 years;261;1.97;11906533;Silent
+Brazil;1993;male;5-14 years;51;0.28;14394322;Boomers
+Brazil;1993;female;5-14 years;31;0.17;1090428;Generation X
+Brazil;1994;male;75+ years;180;22.68;6229420;Silent
+Brazil;1994;male;55-74 years;725;11.56;14212092;G.I. Generation
+Brazil;1994;male;25-34 years;1228;9.31;12077302;Generation X
+Brazil;1994;male;35-54 years;1436;8.95;14396938;Boomers
+Brazil;1994;male;15-24 years;988;6.36;17011362;Generation X
+Brazil;1994;female;75+ years;39;2.98;17445679;Generation X
+Brazil;1994;female;15-24 years;372;2.41;689024;Millenials
+Brazil;1994;female;55-74 years;174;2.38;5570146;Millenials
+Brazil;1994;female;35-54 years;369;2.2;14165486;G.I. Generation
+Brazil;1994;female;25-34 years;291;2.16;12198761;Silent
+Brazil;1994;male;5-14 years;48;0.26;14568361;Boomers
+Brazil;1994;female;5-14 years;46;0.26;1117615;Generation X
+Brazil;1995;male;75+ years;180;22.33;6431086;G.I. Generation
+Brazil;1995;male;55-74 years;812;12.57;14711203;Silent
+Cuba;2011;female;35-54 years;106;5.57;188700;Generation X
+Cuba;2011;female;25-34 years;20;2.91;652400;Boomers
+Cuba;2011;female;15-24 years;13;1.71;202100;Generation X
+Cuba;2011;male;5-14 years;4;0.58;669000;Generation X
+Cuba;2011;female;5-14 years;3;0.46;1246800;Millenials
+Cuba;2012;male;75+ years;245;86.45;1040500;Millenials
+Cuba;2012;male;55-74 years;357;35.68;995700;Silent
+Cuba;2012;male;35-54 years;412;21.53;1278000;Silent
+Cuba;2012;male;25-34 years;108;15.03;989700;Boomers
+Cuba;2012;female;75+ years;52;14.28;1085500;Generation X
+Cuba;2012;female;55-74 years;107;10.31;765100;Silent
+Cuba;2012;male;15-24 years;71;8.93;802100;Silent
+Cuba;2012;female;35-54 years;94;4.93;192900;Millenials
+Cuba;2012;female;15-24 years;25;3.35;666000;Boomers
+Cuba;2012;female;25-34 years;16;2.3;208800;Generation X
+Cuba;2012;male;5-14 years;6;0.89;685000;Millenials
+Cuba;2012;female;5-14 years;2;0.32;1255300;Millenials
+Cuba;2013;male;75+ years;216;73.62;1042700;Millenials
+Cuba;2013;male;55-74 years;401;39.54;1289600;Silent
+Cuba;2013;male;35-54 years;436;22.81;997100;Silent
+Cuba;2013;female;75+ years;49;13.02;1030700;Boomers
+Cuba;2013;male;25-34 years;96;13.01;1039900;Silent
+Cuba;2013;female;55-74 years;111;10.54;779200;Generation X
+Cuba;2013;male;15-24 years;47;6.04;817000;Silent
+Cuba;2013;female;35-54 years;94;4.94;196500;Boomers
+Cuba;2013;female;25-34 years;20;2.8;681200;Millenials
+Cuba;2013;female;15-24 years;20;2.74;702600;Generation X
+Cuba;2013;male;5-14 years;5;0.76;1269100;Millenials
+Cuba;2013;female;5-14 years;4;0.64;214900;Millenials
+Cuba;2014;male;75+ years;221;72.91;1083200;Millenials
+Cuba;2014;male;55-74 years;348;33.64;1305600;Silent
+Cuba;2014;male;35-54 years;409;21.53;951400;Silent
+Cuba;2014;female;75+ years;51;13.13;1065200;Boomers
+Cuba;2014;male;25-34 years;97;12.8;991900;Generation X
+Cuba;2014;female;55-74 years;116;10.79;794500;Silent
+Cuba;2014;male;15-24 years;62;8.14;833200;Silent
+Cuba;2014;female;35-54 years;107;5.66;199400;Boomers
+Cuba;2014;female;15-24 years;19;2.67;697500;Millenials
+Cuba;2014;female;25-34 years;12;1.64;219900;Generation X
+Cuba;2014;male;5-14 years;9;1.39;1291700;Millenials
+Cuba;2014;female;5-14 years;2;0.33;1113600;Millenials
+Cuba;2015;male;75+ years;257;82.23;722000;Millenials
+Cuba;2015;male;55-74 years;394;37.02;1330000;Silent
+Cuba;2015;male;35-54 years;418;22.24;906300;Silent
+Cuba;2015;female;75+ years;56;13.97;1090200;Boomers
+Cuba;2015;male;25-34 years;82;10.6;944700;Generation X
+Cuba;2015;female;55-74 years;104;9.4;806800;Silent
+Cuba;2015;male;15-24 years;56;7.52;846300;Silent
+Cuba;2015;female;35-54 years;102;5.45;201400;Boomers
+Cuba;2015;female;25-34 years;21;2.81;715100;Millenials
+Cuba;2015;female;15-24 years;17;2.44;1324700;Generation X
+Cuba;2015;male;5-14 years;4;0.63;223800;Millenials
+Cuba;2015;female;5-14 years;0;0;1133100;Millenials
+Dominica;1985;female;15-24 years;0;0;743000;Millenials
+Dominica;1985;female;25-34 years;0;0;1364200;Silent
+Dominica;1985;female;35-54 years;0;0;899000;Silent
+Dominica;1985;female;5-14 years;0;0;862100;Boomers
+Dominica;1985;female;55-74 years;0;0;8900;Silent
+Dominica;1985;female;75+ years;0;0;5100;Generation X
+Dominica;1985;male;15-24 years;0;0;5400;Silent
+Dominica;1985;male;25-34 years;0;0;8600;Millenials
+Dominica;1985;male;35-54 years;0;0;3800;Boomers
+Dominica;1985;male;5-14 years;0;0;1200;Millenials
+Dominica;1985;male;55-74 years;0;0;9500;Generation X
+Dominica;1985;male;75+ years;0;0;5800;Millenials
+Ecuador;1985;male;75+ years;8;20;40000;Millenials
+Ecuador;1985;male;25-34 years;70;11.46;610800;Silent
+Ecuador;1985;male;55-74 years;33;11.42;289000;Silent
+Ecuador;1985;male;15-24 years;104;11.36;915700;Boomers
+Ecuador;1985;male;35-54 years;57;8.23;692800;Generation X
+Ecuador;1985;female;15-24 years;58;6.46;897700;Silent
+Ecuador;1985;female;25-34 years;31;5.16;600800;Silent
+Ecuador;1985;female;75+ years;2;4.08;49000;Millenials
+Ecuador;1985;female;35-54 years;15;2.17;692800;Boomers
+Ecuador;1985;female;55-74 years;4;1.32;303000;Generation X
+Ecuador;1985;male;5-14 years;7;0.54;1307600;Millenials
+Ecuador;1985;female;5-14 years;4;0.32;1262600;Millenials
+Ecuador;1986;male;75+ years;6;14.6;41100;Millenials
+Ecuador;1986;male;25-34 years;67;10.66;628400;Silent
+Ecuador;1986;male;55-74 years;28;9.42;297200;Silent
+Ecuador;1986;male;15-24 years;87;9.24;941900;Boomers
+Ecuador;1986;female;15-24 years;74;8.01;923500;Silent
+Ecuador;1986;female;75+ years;4;7.94;50400;Generation X
+Ecuador;1986;male;35-54 years;52;7.3;712600;Silent
+Ecuador;1986;female;25-34 years;28;4.53;618000;Millenials
+Ecuador;1986;female;55-74 years;7;2.25;311800;Boomers
+Ecuador;1986;female;35-54 years;12;1.68;712600;Generation X
+Ecuador;1986;female;5-14 years;6;0.46;1298800;Millenials
+Ecuador;1986;male;5-14 years;6;0.45;1345000;Generation Z
+Ecuador;1987;male;75+ years;6;11.34;52900;Generation Z
+Ecuador;1987;male;25-34 years;74;10.3;718200;Silent
+Ecuador;1987;male;35-54 years;73;9.44;773400;Silent
+Ecuador;1987;female;15-24 years;79;7.9;999500;Boomers
+Ecuador;1987;male;15-24 years;78;7.62;1023900;Silent
+Ecuador;1987;male;55-74 years;20;6.28;318600;Generation X
+Ecuador;1987;female;25-34 years;26;3.67;708700;Silent
+Ecuador;1987;female;35-54 years;16;2.06;775400;Millenials
+Ecuador;1987;female;75+ years;1;1.52;65600;Boomers
+Ecuador;1987;female;55-74 years;5;1.48;338600;Millenials
+Ecuador;1987;male;5-14 years;8;0.61;1309500;Generation X
+Ecuador;1987;female;5-14 years;4;0.31;1272500;Generation Z
+Ecuador;1988;male;25-34 years;93;12.59;738500;Generation Z
+Ecuador;1988;male;55-74 years;41;12.52;327400;Silent
+Ecuador;1988;male;75+ years;6;11.03;54400;Silent
+Ecuador;1988;male;15-24 years;107;10.16;1052900;Boomers
+Ecuador;1988;male;35-54 years;73;9.18;795100;Generation X
+Ecuador;1988;female;15-24 years;73;7.1;1027900;Silent
+Ecuador;1988;female;25-34 years;28;3.84;728700;Silent
+Ecuador;1988;female;35-54 years;28;3.51;797400;Millenials
+Ecuador;1988;female;75+ years;2;2.96;67500;Boomers
+Ecuador;1988;female;55-74 years;6;1.72;348200;Generation X
+Ecuador;1988;female;5-14 years;5;0.38;1308600;Millenials
+Ecuador;1988;male;5-14 years;4;0.3;1346600;Generation Z
+Ecuador;1989;male;75+ years;10;14.56;68674;Generation Z
+Ecuador;1989;male;25-34 years;76;9.91;766852;Silent
+Ecuador;1989;female;15-24 years;89;8.82;1008927;Silent
+Ecuador;1989;male;35-54 years;71;8.42;843236;Generation X
+Ecuador;1989;male;55-74 years;26;7.48;347684;Generation X
+Ecuador;1989;male;15-24 years;77;7.46;1031979;Silent
+Ecuador;1989;female;25-34 years;39;5.14;758284;Silent
+Ecuador;1989;female;75+ years;3;3.55;84592;Millenials
+Ecuador;1989;female;35-54 years;23;2.71;848574;Generation X
+Ecuador;1989;female;55-74 years;5;1.36;368669;Generation X
+Ecuador;1989;male;5-14 years;7;0.56;1243682;Millenials
+Ecuador;1989;female;5-14 years;5;0.41;1207466;Generation Z
+Ecuador;1990;male;25-34 years;89;11.29;788540;Generation Z
+Ecuador;1990;male;15-24 years;97;9.19;1055004;Silent
+Ecuador;1990;male;55-74 years;30;8.36;358877;Boomers
+Ecuador;1990;female;15-24 years;84;8.15;1031235;Generation X
+Ecuador;1990;male;35-54 years;70;7.98;877120;Millenials
+Ecuador;1990;female;25-34 years;42;5.39;779938;Silent
+Ecuador;1990;male;75+ years;3;4.23;70844;Boomers
+Ecuador;1990;female;75+ years;2;2.29;87254;Millenials
+Ecuador;1990;female;35-54 years;17;1.92;883364;Generation X
+Ecuador;1990;female;55-74 years;3;0.79;380666;Millenials
+Ecuador;1990;male;5-14 years;6;0.48;1262625;Millenials
+Ecuador;1990;female;5-14 years;5;0.41;1225466;Generation Z
+Ecuador;1991;female;15-24 years;117;11.02;1061400;Generation Z
+Ecuador;1991;male;55-74 years;37;10.03;368900;Silent
+Ecuador;1991;male;15-24 years;107;9.84;1087300;Boomers
+Ecuador;1991;male;35-54 years;83;9.23;899100;Generation X
+Ecuador;1991;male;25-34 years;70;8.71;804000;Millenials
+Ecuador;1991;male;75+ years;5;7.34;68100;Silent
+Ecuador;1991;female;25-34 years;35;4.42;792300;Boomers
+Ecuador;1991;female;55-74 years;9;2.3;392100;Millenials
+Ecuador;1991;female;35-54 years;18;1.99;903600;Generation X
+Ecuador;1991;female;75+ years;1;1.16;86400;Millenials
+Ecuador;1991;female;5-14 years;9;0.7;1294500;Millenials
+Ecuador;1991;male;5-14 years;3;0.22;1334000;Generation Z
+Ecuador;1992;male;75+ years;12;15.42;77846;Generation Z
+Ecuador;1992;male;25-34 years;91;10.92;833688;Silent
+Ecuador;1992;male;55-74 years;40;10.51;380709;Boomers
+Ecuador;1992;male;15-24 years;114;10.41;1095624;Generation X
+Ecuador;1992;female;15-24 years;92;8.59;1071397;Silent
+Ecuador;1992;male;35-54 years;69;7.29;945954;Millenials
+Ecuador;1992;female;25-34 years;40;4.85;825399;Boomers
+Ecuador;1992;female;75+ years;3;3.15;95162;Millenials
+Ecuador;1992;female;35-54 years;20;2.1;954268;Generation X
+Ecuador;1992;female;5-14 years;13;1.03;1264449;Millenials
+Ecuador;1992;female;55-74 years;4;0.99;404377;Millenials
+Ecuador;1992;male;5-14 years;7;0.54;1304282;Generation Z
+Ecuador;1993;female;15-24 years;131;12.01;1090454;Generation Z
+Ecuador;1993;male;25-34 years;102;11.89;857646;Silent
+Ecuador;1993;male;55-74 years;46;11.71;392963;Boomers
+Ecuador;1993;male;15-24 years;105;9.42;1115135;Generation X
+Ecuador;1993;male;35-54 years;89;9.06;981892;Silent
+Ecuador;1993;female;25-34 years;40;4.71;849600;Millenials
+Ecuador;1993;male;75+ years;3;3.71;80952;Boomers
+Ecuador;1993;female;35-54 years;32;3.23;991346;Millenials
+Ecuador;1993;female;75+ years;2;2.02;98838;Generation X
+Ecuador;1993;female;55-74 years;8;1.92;417711;Millenials
+Ecuador;1993;female;5-14 years;9;0.7;1285346;Millenials
+Ecuador;1993;male;5-14 years;7;0.53;1326600;Generation Z
+Ecuador;1994;male;75+ years;10;11.92;83900;Generation Z
+Ecuador;1994;male;25-34 years;96;10.89;881672;Silent
+Ecuador;1994;male;35-54 years;96;9.43;1018423;Boomers
+Ecuador;1994;male;55-74 years;36;8.86;406131;Generation X
+Ecuador;1994;female;15-24 years;95;8.57;1108840;Silent
+Ecuador;1994;male;15-24 years;91;8.02;1134121;Millenials
+Ecuador;1994;female;25-34 years;39;4.46;873910;Boomers
+Ecuador;1994;female;35-54 years;21;2.04;1029098;Millenials
+Ecuador;1994;female;75+ years;1;0.98;102472;Generation X
+Ecuador;1994;female;5-14 years;12;0.92;1306032;Millenials
+Ecuador;1994;male;5-14 years;12;0.89;1348611;Millenials
+Ecuador;1994;female;55-74 years;3;0.69;432045;Generation Z
+Ecuador;1995;male;25-34 years;97;10.71;905313;Generation Z
+Ecuador;1995;male;15-24 years;113;9.8;1152675;Generation X
+Ecuador;1995;male;55-74 years;41;9.76;420246;Silent
+Ecuador;1995;male;35-54 years;101;9.57;1055363;Boomers
+Ecuador;1995;male;75+ years;8;9.22;86756;G.I. Generation
+Ecuador;1995;female;15-24 years;95;8.43;1126655;Generation X
+Ecuador;1995;female;25-34 years;43;4.79;897847;Generation X
+Ecuador;1995;female;35-54 years;24;2.25;1067369;Boomers
+Ecuador;1995;female;55-74 years;7;1.56;447404;Silent
+Ecuador;1995;female;75+ years;1;0.94;106143;G.I. Generation
+Ecuador;1995;female;5-14 years;10;0.75;1325533;Millenials
+Ecuador;1995;male;5-14 years;6;0.44;1369259;Millenials
+Ecuador;1996;male;55-74 years;53;12.2;434259;Silent
+Ecuador;1996;male;75+ years;11;12.03;91455;G.I. Generation
+Ecuador;1996;male;25-34 years;111;11.97;927403;Generation X
+Ecuador;1996;male;15-24 years;126;10.77;1169923;Generation X
+Ecuador;1996;female;15-24 years;102;8.92;1143710;Generation X
+Ecuador;1996;male;35-54 years;88;8.06;1091980;Boomers
+Ecuador;1996;female;25-34 years;46;5;920330;Generation X
+Ecuador;1996;female;55-74 years;9;1.94;462818;Silent
+Ecuador;1996;female;35-54 years;21;1.9;1105412;Boomers
+Ecuador;1996;female;75+ years;2;1.79;111706;G.I. Generation
+Ecuador;1996;female;5-14 years;17;1.26;1345854;Millenials
+Ecuador;1996;male;5-14 years;7;0.5;1390998;Millenials
+Ecuador;1997;male;25-34 years;109;11.48;949086;Generation X
+Ecuador;1997;male;15-24 years;124;10.45;1186873;Generation X
+Ecuador;1997;male;75+ years;9;9.38;95968;G.I. Generation
+Ecuador;1997;male;35-54 years;99;8.77;1128260;Boomers
+Ecuador;1997;female;15-24 years;101;8.7;1160292;Generation X
+Ecuador;1997;male;55-74 years;35;7.79;449276;Silent
+Ecuador;1997;female;25-34 years;33;3.5;942471;Generation X
+Ecuador;1997;female;35-54 years;24;2.1;1143235;Boomers
+Ecuador;1997;female;5-14 years;24;1.76;1364640;Millenials
+Ecuador;1997;female;55-74 years;6;1.25;479370;Silent
+Ecuador;1997;male;5-14 years;14;0.99;1411124;Millenials
+Ecuador;1997;female;75+ years;1;0.85;117178;G.I. Generation
+Ecuador;1998;male;25-34 years;113;11.65;970170;Generation X
+Ecuador;1998;male;15-24 years;122;10.13;1204061;Generation X
+Ecuador;1998;female;15-24 years;102;8.67;1176841;Generation X
+Ecuador;1998;male;75+ years;8;7.97;100363;G.I. Generation
+Ecuador;1998;male;35-54 years;87;7.47;1164711;Boomers
+Ecuador;1998;male;55-74 years;29;6.24;464944;Silent
+Ecuador;1998;female;25-34 years;29;3.01;964037;Generation X
+Ecuador;1998;female;75+ years;3;2.45;122653;G.I. Generation
+Ecuador;1998;female;35-54 years;24;2.03;1181335;Boomers
+Ecuador;1998;male;5-14 years;14;0.98;1429190;Millenials
+Ecuador;1998;female;5-14 years;12;0.87;1381485;Millenials
+Ecuador;1998;female;55-74 years;3;0.6;496656;Silent
+Ecuador;1999;male;75+ years;13;12.41;104728;G.I. Generation
+Ecuador;1999;male;15-24 years;138;11.29;1222195;Generation X
+Ecuador;1999;male;25-34 years;103;10.4;990403;Generation X
+Ecuador;1999;male;55-74 years;45;9.36;480747;Silent
+Ecuador;1999;male;35-54 years;105;8.73;1202249;Boomers
+Ecuador;1999;female;15-24 years;96;8.04;1194004;Generation X
+Ecuador;1999;female;25-34 years;37;3.76;984732;Generation X
+Ecuador;1999;female;35-54 years;27;2.21;1220621;Boomers
+Ecuador;1999;female;55-74 years;11;2.14;514092;Silent
+Ecuador;1999;male;5-14 years;22;1.52;1445034;Millenials
+Ecuador;1999;female;5-14 years;18;1.29;1396226;Millenials
+Ecuador;1999;female;75+ years;1;0.78;128252;G.I. Generation
+Ecuador;2000;male;15-24 years;132;10.63;1241587;Generation X
+Ecuador;2000;male;25-34 years;84;8.32;1009657;Generation X
+Ecuador;2000;male;35-54 years;101;8.14;1241310;Boomers
+Ecuador;2000;male;75+ years;8;7.33;109133;G.I. Generation
+Ecuador;2000;male;55-74 years;30;6.04;496455;Silent
+Ecuador;2000;female;15-24 years;73;6.02;1212096;Generation X
+Ecuador;2000;female;25-34 years;45;4.48;1004357;Generation X
+Ecuador;2000;female;35-54 years;23;1.82;1261528;Boomers
+Ecuador;2000;female;55-74 years;9;1.69;531381;Silent
+Ecuador;2000;male;5-14 years;16;1.1;1458807;Millenials
+Ecuador;2000;female;5-14 years;12;0.85;1408985;Millenials
+Ecuador;2000;female;75+ years;1;0.75;134087;G.I. Generation
+Ecuador;2001;male;75+ years;15;13.09;114564;Silent
+Ecuador;2001;male;15-24 years;130;10.32;1259528;Millenials
+Ecuador;2001;male;25-34 years;101;9.84;1026201;Generation X
+Ecuador;2001;male;35-54 years;99;7.72;1281560;Boomers
+Ecuador;2001;male;55-74 years;39;7.63;510933;Silent
+Ecuador;2001;female;15-24 years;86;7;1229361;Millenials
+Ecuador;2001;female;25-34 years;38;3.72;1021003;Generation X
+Ecuador;2001;female;35-54 years;32;2.45;1303530;Boomers
+Ecuador;2001;female;55-74 years;10;1.83;547445;Silent
+Ecuador;2001;female;75+ years;2;1.42;140505;Silent
+Ecuador;2001;female;5-14 years;17;1.2;1421482;Millenials
+Ecuador;2001;male;5-14 years;15;1.02;1472216;Millenials
+Ecuador;2002;male;15-24 years;132;10.32;1279199;Millenials
+Ecuador;2002;male;75+ years;12;10.01;119896;Silent
+Ecuador;2002;male;25-34 years;89;8.54;1041783;Generation X
+Ecuador;2002;male;35-54 years;109;8.24;1323268;Boomers
+Ecuador;2002;male;55-74 years;39;7.42;525419;Silent
+Ecuador;2002;female;15-24 years;91;7.29;1248096;Millenials
+Ecuador;2002;female;25-34 years;31;2.99;1036659;Generation X
+Ecuador;2002;female;35-54 years;27;2;1347026;Boomers
+Ecuador;2002;female;5-14 years;23;1.61;1432629;Millenials
+Ecuador;2002;female;55-74 years;7;1.24;563516;Silent
+Ecuador;2002;male;5-14 years;16;1.08;1484308;Millenials
+Ecuador;2002;female;75+ years;1;0.68;146971;Silent
+Ecuador;2003;male;35-54 years;148;10.84;1365415;Boomers
+Ecuador;2003;male;15-24 years;138;10.61;1300272;Millenials
+Ecuador;2003;female;15-24 years;120;9.46;1267956;Millenials
+Ecuador;2003;male;25-34 years;96;9.08;1056829;Generation X
+Ecuador;2003;male;55-74 years;49;9.06;540808;Silent
+Ecuador;2003;male;75+ years;11;8.79;125204;Silent
+Ecuador;2003;female;25-34 years;47;4.47;1051741;Generation X
+Ecuador;2003;female;75+ years;5;3.26;153579;Silent
+Ecuador;2003;female;35-54 years;23;1.65;1390993;Boomers
+Ecuador;2003;female;5-14 years;20;1.39;1442546;Millenials
+Ecuador;2003;female;55-74 years;7;1.21;580521;Silent
+Ecuador;2003;male;5-14 years;11;0.74;1495138;Millenials
+Ecuador;2004;male;75+ years;17;13.02;130553;Silent
+Ecuador;2004;male;25-34 years;137;12.78;1071828;Generation X
+Ecuador;2004;male;15-24 years;165;12.48;1321925;Millenials
+Ecuador;2004;male;55-74 years;68;12.18;558388;Silent
+Ecuador;2004;female;15-24 years;127;9.86;1288166;Millenials
+Ecuador;2004;male;35-54 years;138;9.81;1406412;Boomers
+Ecuador;2004;female;25-34 years;36;3.37;1066713;Generation X
+Ecuador;2004;female;75+ years;5;3.12;160427;Silent
+Ecuador;2004;female;5-14 years;30;2.07;1451359;Millenials
+Ecuador;2004;male;5-14 years;30;1.99;1504779;Millenials
+Ecuador;2004;female;35-54 years;27;1.88;1433784;Boomers
+Ecuador;2004;female;55-74 years;11;1.83;599819;Silent
+Ecuador;2005;male;75+ years;23;16.91;136021;Silent
+Ecuador;2005;male;15-24 years;206;15.33;1343527;Millenials
+Ecuador;2005;male;25-34 years;150;13.8;1087218;Generation X
+Ecuador;2005;male;35-54 years;197;13.63;1445306;Boomers
+Ecuador;2005;male;55-74 years;73;12.61;578971;Silent
+Ecuador;2005;female;15-24 years;140;10.7;1308175;Millenials
+Ecuador;2005;female;25-34 years;44;4.07;1081983;Generation X
+Ecuador;2005;female;35-54 years;35;2.37;1474429;Boomers
+Ecuador;2005;male;5-14 years;34;2.25;1513146;Millenials
+Ecuador;2005;female;55-74 years;13;2.09;622240;Silent
+Ecuador;2005;female;5-14 years;26;1.78;1458992;Millenials
+Ecuador;2005;female;75+ years;2;1.19;167635;Silent
+Ecuador;2006;male;75+ years;23;16.32;140891;Silent
+Ecuador;2006;male;25-34 years;154;13.93;1105682;Generation X
+Ecuador;2006;male;55-74 years;74;12.31;601278;Silent
+Ecuador;2006;female;15-24 years;153;11.52;1327824;Millenials
+Ecuador;2006;male;15-24 years;156;11.44;1363891;Millenials
+Ecuador;2006;male;35-54 years;166;11.17;1486091;Boomers
+Ecuador;2006;female;25-34 years;49;4.45;1100246;Generation X
+Ecuador;2006;female;35-54 years;46;3.03;1516824;Boomers
+Ecuador;2006;female;55-74 years;18;2.78;646356;Silent
+Ecuador;2006;female;75+ years;4;2.3;173865;Silent
+Ecuador;2006;female;5-14 years;28;1.91;1465783;Millenials
+Ecuador;2006;male;5-14 years;29;1.91;1520643;Millenials
+Ecuador;2007;male;15-24 years;235;16.99;1383302;Millenials
+Ecuador;2007;male;55-74 years;92;14.68;626501;Silent
+Ecuador;2007;male;25-34 years;157;13.97;1123771;Generation X
+Ecuador;2007;male;75+ years;18;12.36;145654;Silent
+Ecuador;2007;male;35-54 years;184;12.06;1525177;Boomers
+Ecuador;2007;female;15-24 years;135;10.03;1346416;Millenials
+Ecuador;2007;female;25-34 years;53;4.74;1118153;Generation X
+Ecuador;2007;male;5-14 years;45;2.95;1526432;Generation Z
+Ecuador;2007;female;55-74 years;19;2.82;673563;Silent
+Ecuador;2007;female;35-54 years;42;2.7;1557413;Boomers
+Ecuador;2007;female;5-14 years;23;1.56;1470813;Generation Z
+Ecuador;2007;female;75+ years;2;1.11;180159;Silent
+Ecuador;2008;male;75+ years;31;20.61;150423;Silent
+Ecuador;2008;male;15-24 years;209;14.91;1401816;Millenials
+Ecuador;2008;male;25-34 years;170;14.89;1142009;Generation X
+Ecuador;2008;male;55-74 years;81;12.38;654092;Silent
+Ecuador;2008;male;35-54 years;158;10.11;1563128;Boomers
+Ecuador;2008;female;15-24 years;107;7.84;1363932;Millenials
+Ecuador;2008;female;25-34 years;48;4.22;1136196;Generation X
+Ecuador;2008;female;55-74 years;24;3.41;703291;Silent
+Ecuador;2008;female;35-54 years;53;3.32;1596786;Boomers
+Ecuador;2008;male;5-14 years;24;1.57;1530626;Generation Z
+Ecuador;2008;female;5-14 years;22;1.49;1474229;Generation Z
+Ecuador;2008;female;75+ years;1;0.54;186655;Silent
+Ecuador;2009;male;25-34 years;179;15.42;1161180;Generation X
+Ecuador;2009;male;55-74 years;103;15.08;683190;Silent
+Ecuador;2009;male;15-24 years;214;15.08;1419517;Millenials
+Ecuador;2009;male;75+ years;20;12.88;155307;Silent
+Ecuador;2009;male;35-54 years;180;11.24;1600987;Boomers
+Ecuador;2009;female;15-24 years;100;7.24;1380435;Millenials
+Ecuador;2009;female;75+ years;9;4.65;193481;Silent
+Ecuador;2009;female;25-34 years;48;4.16;1155088;Generation X
+Ecuador;2009;female;35-54 years;48;2.93;1636049;Boomers
+Ecuador;2009;female;55-74 years;20;2.72;734615;Silent
+Ecuador;2009;male;5-14 years;23;1.5;1533769;Generation Z
+Ecuador;2009;female;5-14 years;20;1.35;1476543;Generation Z
+Ecuador;2010;male;15-24 years;214;14.9;1436267;Millenials
+Ecuador;2010;male;25-34 years;171;14.47;1181648;Generation X
+Ecuador;2010;male;35-54 years;165;10.07;1639225;Generation X
+Ecuador;2010;male;55-74 years;68;9.53;713198;Silent
+Ecuador;2010;male;75+ years;14;8.73;160404;Silent
+Ecuador;2010;female;15-24 years;113;8.1;1395797;Millenials
+Ecuador;2010;female;25-34 years;60;5.11;1175139;Generation X
+Ecuador;2010;female;75+ years;6;2.99;200768;Silent
+Ecuador;2010;female;55-74 years;18;2.35;766861;Silent
+Ecuador;2010;female;35-54 years;39;2.33;1675740;Generation X
+Ecuador;2010;male;5-14 years;26;1.69;1536680;Generation Z
+Ecuador;2010;female;5-14 years;18;1.22;1478558;Generation Z
+Ecuador;2011;male;15-24 years;200;13.8;1449571;Millenials
+Ecuador;2011;male;25-34 years;161;13.38;1202963;Millenials
+Ecuador;2011;male;55-74 years;83;11.19;741610;Boomers
+Ecuador;2011;male;75+ years;18;10.83;166244;Silent
+Ecuador;2011;male;35-54 years;160;9.54;1677115;Generation X
+Ecuador;2011;female;15-24 years;120;8.52;1408696;Millenials
+Ecuador;2011;female;25-34 years;51;4.26;1195816;Millenials
+Ecuador;2011;female;35-54 years;45;2.62;1715068;Generation X
+Ecuador;2011;female;5-14 years;32;2.16;1480934;Generation Z
+Ecuador;2011;male;5-14 years;32;2.08;1539867;Generation Z
+Ecuador;2011;female;75+ years;4;1.92;208097;Silent
+Ecuador;2011;female;55-74 years;12;1.5;797572;Boomers
+Ecuador;2012;male;15-24 years;240;16.41;1462193;Millenials
+Ecuador;2012;male;25-34 years;164;13.38;1225594;Millenials
+Ecuador;2012;male;55-74 years;87;11.28;771426;Boomers
+Ecuador;2012;male;75+ years;19;11.04;172083;Silent
+Ecuador;2012;male;35-54 years;162;9.44;1715827;Generation X
+Ecuador;2012;female;15-24 years;118;8.31;1420727;Millenials
+Ecuador;2012;female;25-34 years;55;4.52;1217762;Millenials
+Ecuador;2012;female;35-54 years;48;2.73;1755189;Generation X
+Ecuador;2012;male;5-14 years;39;2.52;1544899;Generation Z
+Ecuador;2012;female;75+ years;4;1.86;215613;Silent
+Ecuador;2012;female;5-14 years;27;1.82;1484824;Generation Z
+Ecuador;2012;female;55-74 years;13;1.57;829724;Boomers
+Ecuador;2013;male;75+ years;23;12.91;178094;Silent
+Ecuador;2013;male;15-24 years;156;10.58;1473845;Millenials
+Ecuador;2013;male;25-34 years;111;8.89;1248815;Millenials
+Ecuador;2013;male;55-74 years;65;8.1;802441;Boomers
+Ecuador;2013;female;15-24 years;89;6.22;1431562;Millenials
+Ecuador;2013;male;35-54 years;106;6.04;1755019;Generation X
+Ecuador;2018;female;25-34 years;30;2.42;1240273;Millenials
+Ecuador;2018;male;5-14 years;29;1.87;1551821;Generation Z
+Ecuador;2018;female;35-54 years;32;1.78;1795728;Generation X
+Ecuador;2018;female;55-74 years;12;1.39;863112;Boomers
+Ecuador;2018;female;75+ years;3;1.34;223521;Silent
+Ecuador;2018;female;5-14 years;20;1.34;1490382;Generation Z
+Ecuador;2018;male;75+ years;25;13.55;184452;Silent
+Ecuador;2018;male;15-24 years;164;11.05;1484064;Millenials
+Ecuador;2018;male;25-34 years;123;9.67;1271545;Millenials
+Ecuador;2018;male;55-74 years;74;8.87;834436;Boomers
+Ecuador;2018;male;35-54 years;153;8.53;1794205;Generation X
+Ecuador;2018;female;15-24 years;77;5.34;1440731;Millenials
+Ecuador;2018;female;25-34 years;33;2.61;1262288;Millenials
+Ecuador;2018;male;5-14 years;28;1.79;1560323;Generation Z
+Ecuador;2018;female;55-74 years;16;1.78;897482;Boomers
+Ecuador;2018;female;5-14 years;18;1.2;1497410;Generation Z
+Ecuador;2018;female;35-54 years;22;1.2;1836144;Generation X
+Ecuador;2018;female;75+ years;1;0.43;232065;Silent
+Ecuador;2018;male;75+ years;40;20.91;191306;Silent
+Ecuador;2018;male;15-24 years;234;15.68;1492713;Millenials
+Ecuador;2018;male;25-34 years;185;14.31;1293193;Millenials
+Ecuador;2018;male;55-74 years;108;12.45;867314;Boomers
+Ecuador;2018;male;35-54 years;205;11.18;1833181;Generation X
+Ecuador;2018;female;15-24 years;110;7.6;1448112;Millenials
+Ecuador;2018;female;25-34 years;56;4.36;1283175;Millenials
+Ecuador;2018;female;35-54 years;46;2.45;1876229;Generation X
+Ecuador;2018;female;55-74 years;22;2.36;932718;Boomers
+Ecuador;2018;male;5-14 years;35;2.23;1569519;Generation Z
+Ecuador;2018;female;75+ years;5;2.07;241437;Silent
+Ecuador;2018;female;5-14 years;27;1.79;1505127;Generation Z
+El Salvador;1990;male;75+ years;13;43.4;29955;G.I. Generation
+El Salvador;1990;male;25-34 years;119;35.03;339719;Boomers
+El Salvador;1990;male;15-24 years;127;25.15;504932;Generation X
+El Salvador;1990;female;15-24 years;112;21.19;528567;Generation X
+El Salvador;1990;male;35-54 years;81;18.95;427335;Silent
+El Salvador;1990;male;55-74 years;34;16.87;201577;G.I. Generation
+El Salvador;1990;female;25-34 years;43;11.23;383005;Boomers
+El Salvador;1990;female;35-54 years;24;5.03;477092;Silent
+El Salvador;1990;female;55-74 years;9;4.06;221802;G.I. Generation
+El Salvador;1990;female;75+ years;1;2.36;42375;G.I. Generation
+El Salvador;1990;female;5-14 years;7;1.04;671315;Generation X
+El Salvador;1990;male;5-14 years;1;0.15;682878;Generation X
+El Salvador;1991;male;75+ years;18;57.06;31546;G.I. Generation
+El Salvador;1991;male;25-34 years;88;25.32;347533;Boomers
+El Salvador;1991;male;15-24 years;98;19.09;513452;Generation X
+El Salvador;1991;male;55-74 years;39;18.76;207938;Silent
+El Salvador;1991;female;15-24 years;97;18.08;536557;Generation X
+El Salvador;1991;male;35-54 years;76;17.47;434946;Boomers
+El Salvador;1991;female;25-34 years;28;7.13;392748;Boomers
+El Salvador;1991;female;35-54 years;17;3.47;490048;Boomers
+El Salvador;1991;female;75+ years;1;2.26;44305;G.I. Generation
+El Salvador;1991;female;55-74 years;3;1.31;228668;Silent
+El Salvador;1991;female;5-14 years;8;1.2;668713;Millenials
+El Salvador;1991;male;5-14 years;1;0.15;680531;Millenials
+El Salvador;1992;male;25-34 years;72;22;327300;Boomers
+El Salvador;1992;male;55-74 years;36;18.15;198300;Silent
+El Salvador;1992;male;35-54 years;71;17.07;415900;Boomers
+El Salvador;1992;female;15-24 years;87;14.94;582300;Generation X
+El Salvador;1992;male;15-24 years;83;14.59;568700;Generation X
+El Salvador;1992;male;75+ years;4;14.04;28500;G.I. Generation
+El Salvador;1992;female;25-34 years;34;8.98;378700;Boomers
+El Salvador;1992;female;75+ years;2;4.69;42600;G.I. Generation
+El Salvador;1992;female;35-54 years;16;3.53;453500;Boomers
+El Salvador;1992;female;5-14 years;6;0.89;673800;Millenials
+El Salvador;1992;female;55-74 years;2;0.88;227500;Silent
+El Salvador;1992;male;5-14 years;6;0.86;694500;Millenials
+El Salvador;1993;male;25-34 years;83;24.47;339200;Boomers
+El Salvador;1993;male;75+ years;6;19.93;30100;G.I. Generation
+El Salvador;1993;male;15-24 years;113;19.02;594200;Generation X
+El Salvador;1993;female;15-24 years;81;13.45;602300;Generation X
+El Salvador;1993;male;55-74 years;23;11.35;202600;Silent
+El Salvador;1993;male;35-54 years;43;10.1;425700;Boomers
+El Salvador;1993;female;75+ years;4;8.81;45400;G.I. Generation
+El Salvador;1993;female;25-34 years;29;7.4;392000;Boomers
+El Salvador;1993;female;35-54 years;19;4.06;468000;Boomers
+El Salvador;1993;female;55-74 years;6;2.58;233000;Silent
+El Salvador;1993;female;5-14 years;13;1.94;670500;Millenials
+El Salvador;1993;male;5-14 years;4;0.58;691300;Millenials
+El Salvador;1995;male;25-34 years;124;33.15;374095;Generation X
+El Salvador;1995;male;15-24 years;171;31.96;534966;Generation X
+El Salvador;1995;male;75+ years;9;24.53;36691;G.I. Generation
+El Salvador;1995;female;15-24 years;114;20.5;556096;Generation X
+El Salvador;1995;male;35-54 years;90;19.29;466571;Boomers
+El Salvador;1995;female;25-34 years;42;9.81;427927;Generation X
+El Salvador;1995;male;55-74 years;20;8.49;235530;Silent
+El Salvador;1995;female;35-54 years;23;4.21;546262;Boomers
+El Salvador;1995;female;5-14 years;16;2.41;664854;Millenials
+El Salvador;1995;female;55-74 years;6;2.3;260709;Silent
+El Salvador;1995;female;75+ years;1;1.95;51334;G.I. Generation
+El Salvador;1995;male;5-14 years;4;0.59;681362;Millenials
+El Salvador;1996;male;25-34 years;110;28.98;379510;Generation X
+El Salvador;1996;male;75+ years;10;25.75;38834;G.I. Generation
+El Salvador;1996;male;15-24 years;128;23.85;536760;Generation X
+El Salvador;1996;female;15-24 years;112;20.03;559279;Generation X
+El Salvador;1996;male;35-54 years;82;17.34;472893;Boomers
+El Salvador;1996;male;55-74 years;40;16.61;240800;Silent
+El Salvador;1996;female;25-34 years;22;5.07;434209;Generation X
+El Salvador;1996;female;35-54 years;20;3.58;557964;Boomers
+El Salvador;1996;female;55-74 years;7;2.61;267732;Silent
+El Salvador;1996;female;5-14 years;7;1.05;666674;Millenials
+El Salvador;1996;male;5-14 years;2;0.29;683884;Millenials
+El Salvador;1996;female;75+ years;0;0;53852;G.I. Generation
+El Salvador;1997;male;25-34 years;93;24.22;384050;Generation X
+El Salvador;1997;male;15-24 years;128;23.82;537324;Generation X
+El Salvador;1997;male;35-54 years;106;22.1;479586;Boomers
+El Salvador;1997;female;15-24 years;109;19.42;561311;Generation X
+El Salvador;1997;male;55-74 years;47;19.12;245832;Silent
+El Salvador;1997;male;75+ years;4;9.79;40876;G.I. Generation
+El Salvador;1997;female;25-34 years;39;8.86;440015;Generation X
+El Salvador;1997;female;35-54 years;28;4.91;570003;Boomers
+El Salvador;1997;female;75+ years;2;3.55;56321;G.I. Generation
+El Salvador;1997;female;5-14 years;15;2.24;670365;Millenials
+El Salvador;1997;female;55-74 years;5;1.82;275078;Silent
+El Salvador;1997;male;5-14 years;1;0.15;688541;Millenials
+El Salvador;1998;male;25-34 years;94;24.25;387565;Generation X
+El Salvador;1998;male;35-54 years;98;20.15;486466;Boomers
+El Salvador;1998;male;15-24 years;108;20.11;537038;Generation X
+El Salvador;1998;female;15-24 years;92;16.36;562249;Generation X
+El Salvador;1998;male;55-74 years;36;14.36;250628;Silent
+El Salvador;1998;male;75+ years;5;11.69;42770;G.I. Generation
+El Salvador;1998;female;25-34 years;35;7.86;445330;Generation X
+El Salvador;1998;female;35-54 years;22;3.78;582217;Boomers
+El Salvador;1998;female;5-14 years;13;1.92;675678;Millenials
+El Salvador;1998;female;55-74 years;5;1.77;282668;Silent
+El Salvador;1998;male;5-14 years;4;0.58;695037;Millenials
+El Salvador;1998;female;75+ years;0;0;58692;G.I. Generation
+El Salvador;1999;male;25-34 years;84;21.53;390125;Generation X
+El Salvador;1999;male;15-24 years;115;21.44;536426;Generation X
+El Salvador;1999;male;35-54 years;101;20.47;493326;Boomers
+El Salvador;1999;male;75+ years;8;18;44452;G.I. Generation
+El Salvador;1999;female;15-24 years;94;16.71;562372;Generation X
+El Salvador;1999;male;55-74 years;33;12.93;255222;Silent
+El Salvador;1999;female;25-34 years;28;6.22;450238;Generation X
+El Salvador;1999;female;35-54 years;27;4.54;594483;Boomers
+El Salvador;1999;female;5-14 years;14;2.05;682007;Millenials
+El Salvador;1999;female;55-74 years;5;1.72;290451;Silent
+El Salvador;1999;female;75+ years;1;1.64;60903;G.I. Generation
+El Salvador;1999;male;5-14 years;5;0.71;702754;Millenials
+El Salvador;2000;male;25-34 years;82;20.92;391884;Generation X
+El Salvador;2000;male;15-24 years;110;20.52;536079;Generation X
+El Salvador;2000;male;35-54 years;91;18.2;500065;Boomers
+El Salvador;2000;female;15-24 years;82;14.59;562148;Generation X
+El Salvador;2000;male;55-74 years;31;11.94;259670;Silent
+El Salvador;2000;male;75+ years;3;6.53;45935;G.I. Generation
+El Salvador;2000;female;75+ years;4;6.36;62940;G.I. Generation
+El Salvador;2000;female;25-34 years;25;5.5;454793;Generation X
+El Salvador;2000;female;35-54 years;23;3.79;606774;Boomers
+El Salvador;2000;female;55-74 years;4;1.34;298428;Silent
+El Salvador;2000;female;5-14 years;4;0.58;688554;Millenials
+El Salvador;2000;male;5-14 years;2;0.28;710919;Millenials
+El Salvador;2001;male;15-24 years;130;24.26;535877;Millenials
+El Salvador;2001;male;25-34 years;90;22.77;395177;Generation X
+El Salvador;2001;male;35-54 years;91;17.96;506547;Boomers
+El Salvador;2001;male;75+ years;8;16.52;48437;Silent
+El Salvador;2001;male;55-74 years;42;15.96;263234;Silent
+El Salvador;2001;female;15-24 years;74;13.13;563601;Millenials
+El Salvador;2001;female;25-34 years;27;5.87;459669;Generation X
+El Salvador;2001;female;35-54 years;30;4.85;618020;Boomers
+El Salvador;2001;female;75+ years;3;4.56;65804;Silent
+El Salvador;2001;female;55-74 years;6;1.97;304753;Silent
+El Salvador;2001;female;5-14 years;12;1.72;695687;Millenials
+El Salvador;2001;male;5-14 years;1;0.14;718288;Millenials
+El Salvador;2002;male;75+ years;11;21.67;50753;Silent
+El Salvador;2002;male;25-34 years;71;17.85;397854;Generation X
+El Salvador;2002;male;15-24 years;95;17.73;535886;Millenials
+El Salvador;2002;male;35-54 years;84;16.37;513122;Boomers
+El Salvador;2002;male;55-74 years;39;14.63;266616;Silent
+El Salvador;2002;female;15-24 years;76;13.45;565074;Millenials
+El Salvador;2002;female;25-34 years;18;3.88;464461;Generation X
+El Salvador;2002;female;35-54 years;24;3.81;629533;Boomers
+El Salvador;2002;female;55-74 years;7;2.25;311230;Silent
+El Salvador;2002;female;5-14 years;7;1;702143;Millenials
+El Salvador;2002;male;5-14 years;4;0.55;725313;Millenials
+El Salvador;2002;female;75+ years;0;0;68473;Silent
+El Salvador;2003;male;25-34 years;117;29.28;399587;Generation X
+El Salvador;2003;male;15-24 years;112;20.86;537000;Millenials
+El Salvador;2003;male;35-54 years;102;19.63;519619;Boomers
+El Salvador;2003;male;55-74 years;46;17.04;269903;Silent
+El Salvador;2003;male;75+ years;8;15.11;52961;Silent
+El Salvador;2003;female;15-24 years;79;13.93;567174;Millenials
+El Salvador;2003;female;25-34 years;19;4.05;468892;Generation X
+El Salvador;2003;female;35-54 years;23;3.59;641104;Boomers
+El Salvador;2003;female;55-74 years;7;2.2;317915;Silent
+El Salvador;2003;female;5-14 years;10;1.41;707158;Millenials
+El Salvador;2003;female;75+ years;1;1.41;71062;Silent
+El Salvador;2003;male;5-14 years;3;0.41;731167;Millenials
+El Salvador;2004;male;25-34 years;86;21.5;399986;Generation X
+El Salvador;2004;male;15-24 years;108;19.99;540251;Millenials
+El Salvador;2004;male;35-54 years;104;19.78;525677;Boomers
+El Salvador;2004;male;55-74 years;42;15.37;273214;Silent
+El Salvador;2004;male;75+ years;7;12.69;55160;Silent
+El Salvador;2004;female;15-24 years;60;10.51;570702;Millenials
+El Salvador;2004;female;25-34 years;22;4.66;472515;Generation X
+El Salvador;2004;female;35-54 years;20;3.07;652329;Boomers
+El Salvador;2004;female;75+ years;1;1.36;73698;Silent
+El Salvador;2004;female;55-74 years;4;1.23;324903;Silent
+El Salvador;2004;female;5-14 years;8;1.13;709844;Millenials
+El Salvador;2004;male;5-14 years;2;0.27;734891;Millenials
+El Salvador;2005;male;25-34 years;86;21.56;398935;Generation X
+El Salvador;2005;male;15-24 years;103;18.85;546352;Millenials
+El Salvador;2005;male;55-74 years;47;16.99;276600;Silent
+El Salvador;2005;male;35-54 years;88;16.57;530976;Boomers
+El Salvador;2005;male;75+ years;9;15.68;57396;Silent
+El Salvador;2005;female;15-24 years;65;11.28;576188;Millenials
+El Salvador;2005;female;75+ years;4;5.23;76442;Silent
+El Salvador;2005;female;25-34 years;22;4.63;475096;Generation X
+El Salvador;2005;female;35-54 years;12;1.81;662917;Boomers
+El Salvador;2005;female;5-14 years;12;1.69;709756;Millenials
+El Salvador;2005;female;55-74 years;3;0.9;332256;Silent
+El Salvador;2005;male;5-14 years;4;0.54;735965;Millenials
+El Salvador;2006;male;25-34 years;80;19.94;401266;Generation X
+El Salvador;2006;male;15-24 years;89;16.06;554177;Millenials
+El Salvador;2006;male;75+ years;9;14.8;60827;Silent
+El Salvador;2006;male;35-54 years;78;14.51;537725;Boomers
+El Salvador;2006;male;55-74 years;32;11.43;280005;Silent
+El Salvador;2006;female;15-24 years;61;10.45;583805;Millenials
+El Salvador;2006;female;25-34 years;24;5.01;478826;Generation X
+El Salvador;2006;female;35-54 years;23;3.41;674459;Boomers
+El Salvador;2006;female;55-74 years;5;1.47;339861;Silent
+El Salvador;2006;female;75+ years;1;1.24;80379;Silent
+El Salvador;2006;male;5-14 years;5;0.68;731674;Millenials
+El Salvador;2006;female;5-14 years;4;0.57;706040;Millenials
+El Salvador;2007;male;25-34 years;114;28.36;401997;Generation X
+El Salvador;2007;male;35-54 years;111;20.42;543505;Boomers
+El Salvador;2007;male;75+ years;13;20.26;64151;Silent
+El Salvador;2007;male;55-74 years;53;18.71;283342;Silent
+El Salvador;2007;male;15-24 years;93;16.51;563128;Millenials
+El Salvador;2007;female;15-24 years;57;9.62;592288;Millenials
+El Salvador;2007;female;25-34 years;22;4.57;481271;Generation X
+El Salvador;2007;female;75+ years;2;2.37;84282;Silent
+El Salvador;2007;female;55-74 years;8;2.3;347632;Silent
+El Salvador;2007;female;35-54 years;14;2.04;684881;Boomers
+El Salvador;2007;female;5-14 years;9;1.29;698018;Generation Z
+El Salvador;2007;male;5-14 years;5;0.69;723366;Generation Z
+El Salvador;2008;male;75+ years;19;28.18;67413;Silent
+El Salvador;2008;male;25-34 years;103;25.65;401584;Generation X
+El Salvador;2008;male;35-54 years;103;18.77;548836;Boomers
+El Salvador;2008;male;15-24 years;106;18.49;573262;Millenials
+El Salvador;2008;male;55-74 years;38;13.25;286738;Silent
+El Salvador;2008;female;15-24 years;53;8.81;601543;Millenials
+El Salvador;2008;female;25-34 years;26;5.38;482895;Generation X
+El Salvador;2008;female;35-54 years;29;4.17;694764;Boomers
+El Salvador;2008;female;75+ years;1;1.13;88207;Silent
+El Salvador;2008;female;5-14 years;5;0.73;686491;Generation Z
+El Salvador;2008;male;5-14 years;5;0.7;711888;Generation Z
+El Salvador;2008;female;55-74 years;2;0.56;355666;Silent
+El Salvador;2009;male;25-34 years;120;29.94;400776;Generation X
+El Salvador;2009;male;35-54 years;113;20.39;554321;Boomers
+El Salvador;2009;male;75+ years;13;18.4;70655;Silent
+El Salvador;2009;male;55-74 years;49;16.88;290324;Silent
+El Salvador;2009;male;15-24 years;95;16.26;584388;Millenials
+El Salvador;2009;female;15-24 years;55;9;611290;Millenials
+El Salvador;2009;female;25-34 years;27;5.57;484388;Generation X
+El Salvador;2009;female;35-54 years;16;2.27;704865;Boomers
+El Salvador;2009;female;75+ years;2;2.17;92201;Silent
+El Salvador;2009;female;55-74 years;7;1.92;364066;Silent
+El Salvador;2009;female;5-14 years;6;0.89;672905;Generation Z
+El Salvador;2009;male;5-14 years;3;0.43;698731;Generation Z
+El Salvador;2010;male;25-34 years;93;23.24;400088;Generation X
+El Salvador;2010;male;55-74 years;45;15.3;294119;Silent
+El Salvador;2010;male;75+ years;11;14.89;73884;Silent
+El Salvador;2010;male;15-24 years;81;13.58;596366;Millenials
+El Salvador;2010;male;35-54 years;73;13.03;560083;Generation X
+El Salvador;2010;female;15-24 years;44;7.08;621228;Millenials
+El Salvador;2010;female;25-34 years;19;3.91;486153;Generation X
+El Salvador;2010;female;35-54 years;20;2.8;715456;Generation X
+El Salvador;2010;female;75+ years;2;2.08;96291;Silent
+El Salvador;2010;female;5-14 years;7;1.06;658707;Generation Z
+El Salvador;2010;female;55-74 years;3;0.8;372845;Silent
+El Salvador;2010;male;5-14 years;1;0.15;685233;Generation Z
+El Salvador;2011;male;25-34 years;100;24.83;402814;Millenials
+El Salvador;2011;male;75+ years;15;19.34;77576;Silent
+El Salvador;2011;male;15-24 years;116;19.11;607120;Millenials
+El Salvador;2011;male;35-54 years;85;15.02;565884;Generation X
+El Salvador;2011;male;55-74 years;39;13.13;297029;Boomers
+El Salvador;2011;female;15-24 years;52;8.25;630434;Millenials
+El Salvador;2011;female;25-34 years;26;5.32;488848;Millenials
+El Salvador;2011;female;35-54 years;22;3.03;725601;Generation X
+El Salvador;2011;female;75+ years;3;2.97;100865;Silent
+El Salvador;2011;female;5-14 years;12;1.87;642054;Generation Z
+El Salvador;2011;male;5-14 years;12;1.8;666916;Generation Z
+El Salvador;2011;female;55-74 years;3;0.79;380644;Boomers
+El Salvador;2012;male;25-34 years;109;26.85;406026;Millenials
+El Salvador;2012;male;55-74 years;62;20.63;300461;Boomers
+El Salvador;2012;male;75+ years;16;19.7;81225;Silent
+El Salvador;2012;male;35-54 years;98;17.11;572655;Generation X
+El Salvador;2012;male;15-24 years;100;16.18;618195;Millenials
+El Salvador;2012;female;15-24 years;56;8.75;639803;Millenials
+El Salvador;2012;female;25-34 years;26;5.28;492068;Millenials
+El Salvador;2012;female;35-54 years;19;2.58;736698;Generation X
+El Salvador;2012;female;75+ years;2;1.9;105481;Silent
+El Salvador;2012;male;5-14 years;11;1.69;650570;Generation Z
+El Salvador;2012;female;5-14 years;9;1.44;626538;Generation Z
+El Salvador;2012;female;55-74 years;4;1.03;389103;Boomers
+El Salvador;2013;male;25-34 years;95;23.17;409974;Millenials
+El Salvador;2013;male;35-54 years;129;22.25;579811;Generation X
+El Salvador;2013;male;75+ years;18;21.24;84746;Silent
+El Salvador;2013;male;55-74 years;59;19.38;304397;Boomers
+El Salvador;2013;male;15-24 years;79;12.57;628312;Millenials
+El Salvador;2013;female;15-24 years;43;6.64;648028;Millenials
+El Salvador;2013;female;25-34 years;22;4.43;496109;Millenials
+El Salvador;2013;female;35-54 years;19;2.54;748153;Generation X
+El Salvador;2013;female;55-74 years;7;1.76;398116;Boomers
+El Salvador;2013;female;5-14 years;7;1.14;612761;Generation Z
+El Salvador;2013;male;5-14 years;6;0.94;636699;Generation Z
+El Salvador;2013;female;75+ years;0;0;110144;Silent
+El Salvador;2014;male;75+ years;19;21.59;87989;Silent
+El Salvador;2014;male;25-34 years;77;18.55;415163;Millenials
+El Salvador;2014;male;35-54 years;85;14.49;586412;Generation X
+El Salvador;2014;male;55-74 years;44;14.25;308802;Boomers
+El Salvador;2014;male;15-24 years;51;8.03;635499;Millenials
+El Salvador;2014;female;75+ years;9;7.84;114804;Silent
+El Salvador;2014;female;15-24 years;33;5.05;653215;Millenials
+El Salvador;2014;female;25-34 years;24;4.79;501438;Millenials
+El Salvador;2014;female;35-54 years;27;3.56;758979;Generation X
+El Salvador;2014;female;55-74 years;11;2.7;407576;Boomers
+El Salvador;2014;female;5-14 years;4;0.67;601023;Generation Z
+Mexico;2009;male;75+ years;163;14.24;625429;Generation Z
+Mexico;2009;male;25-34 years;985;10.22;180939;Boomers
+Mexico;2009;male;35-54 years;1271;10.04;17701;G.I. Generation
+Mexico;2009;male;55-74 years;497;9.68;117994;Silent
+Mexico;2009;male;15-24 years;1032;9.33;95952;Generation X
+Mexico;2009;female;15-24 years;359;3.36;50860;G.I. Generation
+Mexico;2009;female;25-34 years;212;2.2;178879;Silent
+Mexico;2009;female;35-54 years;234;1.74;100625;Generation X
+Mexico;2009;female;55-74 years;74;1.35;200427;Boomers
+Mexico;2009;male;5-14 years;109;0.91;98531;Generation X
+Mexico;2009;female;5-14 years;81;0.7;97494;Generation X
+Mexico;2009;female;75+ years;6;0.37;111035;Millenials
+Mexico;2010;male;75+ years;165;13.9;106214;Millenials
+Mexico;2010;male;25-34 years;936;9.65;17605;G.I. Generation
+Mexico;2010;male;15-24 years;1074;9.6;178056;Boomers
+Mexico;2010;male;35-54 years;1191;9.08;118715;Silent
+Mexico;2010;male;55-74 years;483;9.02;93866;Generation X
+Mexico;2010;female;15-24 years;350;3.23;50849;G.I. Generation
+Mexico;2010;female;25-34 years;177;1.83;99540;Generation X
+Mexico;2010;female;35-54 years;231;1.66;179534;Silent
+Mexico;2010;female;55-74 years;62;1.08;198315;Boomers
+Mexico;2010;male;5-14 years;109;0.91;96173;Generation X
+Mexico;2010;female;5-14 years;73;0.63;109002;Millenials
+Mexico;2010;female;75+ years;7;0.42;96311;Generation X
+Mexico;2011;male;75+ years;156;12.61;104236;Millenials
+Mexico;2011;male;15-24 years;1308;11.56;17817;G.I. Generation
+Mexico;2011;male;25-34 years;1024;10.46;176261;Boomers
+Mexico;2011;male;35-54 years;1326;9.78;119232;Silent
+Mexico;2011;male;55-74 years;533;9.58;432000;G.I. Generation
+Mexico;2011;female;15-24 years;439;4.01;2330000;G.I. Generation
+Mexico;2011;female;25-34 years;225;2.31;5679000;Boomers
+Mexico;2011;female;35-54 years;222;1.55;5836000;Silent
+Mexico;2011;female;55-74 years;72;1.21;8420000;Generation X
+Mexico;2011;male;5-14 years;140;1.17;8211000;Generation X
+Mexico;2011;female;5-14 years;107;0.93;563000;G.I. Generation
+Mexico;2011;female;75+ years;6;0.35;5661000;Boomers
+Mexico;2012;male;75+ years;170;13.25;6100000;Silent
+Mexico;2012;male;15-24 years;1251;10.95;2651000;G.I. Generation
+Mexico;2012;male;25-34 years;1013;10.24;11029000;Generation X
+Mexico;2012;male;35-54 years;1264;9.04;10654000;Generation X
+Mexico;2012;male;55-74 years;509;8.81;442100;G.I. Generation
+Mexico;2012;female;15-24 years;407;3.67;2383900;G.I. Generation
+Mexico;2012;female;25-34 years;214;2.18;5809900;Boomers
+Mexico;2012;female;35-54 years;258;1.75;5971300;Silent
+Mexico;2012;female;55-74 years;85;1.37;8614300;Generation X
+Mexico;2012;male;5-14 years;123;1.03;8400500;Generation X
+Mexico;2012;female;5-14 years;79;0.69;5791500;Boomers
+Mexico;2012;female;75+ years;8;0.45;6239700;Silent
+Mexico;2013;male;75+ years;161;12.12;576700;G.I. Generation
+Mexico;2013;male;25-34 years;1151;11.51;2711700;G.I. Generation
+Mexico;2013;male;15-24 years;1220;10.59;11282700;Generation X
+Mexico;2013;male;35-54 years;1469;10.21;10899200;Generation X
+Mexico;2013;male;55-74 years;565;9.42;456000;G.I. Generation
+Mexico;2013;female;15-24 years;392;3.5;5659000;Boomers
+Mexico;2013;female;25-34 years;212;2.14;2409000;G.I. Generation
+Mexico;2013;female;35-54 years;263;1.73;6187000;Silent
+Mexico;2013;female;55-74 years;94;1.45;8726000;Generation X
+Mexico;2013;female;75+ years;16;0.88;8559000;Generation X
+Mexico;2013;male;5-14 years;102;0.86;5728000;Boomers
+Mexico;2013;female;5-14 years;66;0.58;6389000;Silent
+Mexico;2014;male;75+ years;177;12.86;2727000;G.I. Generation
+Mexico;2014;male;15-24 years;1334;11.5;599100;G.I. Generation
+Mexico;2014;male;25-34 years;1140;11.27;10423000;Generation X
+Mexico;2014;male;35-54 years;1558;10.54;10086000;Generation X
+Mexico;2014;male;55-74 years;612;9.83;467000;G.I. Generation
+Mexico;2014;female;15-24 years;416;3.69;2511000;G.I. Generation
+Mexico;2014;female;25-34 years;271;2.72;5878000;Boomers
+Mexico;2014;female;35-54 years;333;2.14;6379000;Silent
+Mexico;2014;female;55-74 years;91;1.35;9021000;Generation X
+Mexico;2014;male;5-14 years;129;1.09;8850000;Generation X
+Mexico;2014;female;5-14 years;109;0.96;614000;G.I. Generation
+Mexico;2014;female;75+ years;8;0.43;5953000;Boomers
+Mexico;2015;male;25-34 years;1195;11.67;6590000;Silent
+Mexico;2015;male;15-24 years;1347;11.54;2844000;G.I. Generation
+Mexico;2015;male;75+ years;163;11.42;10438000;Generation X
+Mexico;2015;male;35-54 years;1560;10.28;10101000;Generation X
+Mexico;2015;male;55-74 years;584;9.03;476000;G.I. Generation
+Mexico;2015;female;15-24 years;484;4.26;2613000;G.I. Generation
+Mexico;2015;female;25-34 years;267;2.65;6586000;Silent
+Mexico;2015;female;35-54 years;303;1.9;6109000;Boomers
+Mexico;2015;female;55-74 years;88;1.25;9284000;Generation X
+Mexico;2015;male;5-14 years;137;1.16;6807000;Silent
+Mexico;2015;female;5-14 years;95;0.84;9111000;Generation X
+Mexico;2015;female;75+ years;11;0.57;6186000;Boomers
+Uruguay;2002;female;75+ years;18;14.63;2961000;G.I. Generation
+Uruguay;2002;female;35-54 years;39;9.59;46900;G.I. Generation
+Uruguay;2002;female;15-24 years;17;6.77;235800;G.I. Generation
+Uruguay;2002;female;25-34 years;14;5.86;336400;Silent
+Uruguay;2002;female;5-14 years;3;1.12;204000;Boomers
+Uruguay;2002;male;5-14 years;2;0.72;270100;G.I. Generation
+Uruguay;2003;male;75+ years;62;89.54;247000;Generation X
+Uruguay;2003;male;55-74 years;131;53.1;72800;G.I. Generation
+Uruguay;2003;male;35-54 years;107;27.93;347300;Silent
+Uruguay;2003;male;25-34 years;63;25.95;240000;Generation X
+Uruguay;2003;male;15-24 years;48;18.79;203000;Boomers
+Uruguay;2003;female;35-54 years;48;11.78;263100;Generation X
+Uruguay;2003;female;55-74 years;34;11.21;271000;Generation X
+Uruguay;2003;female;75+ years;10;7.93;47400;G.I. Generation
+Uruguay;2003;female;25-34 years;18;7.47;237800;G.I. Generation
+Uruguay;2003;female;15-24 years;11;4.44;338500;Silent
+Uruguay;2003;female;5-14 years;2;0.75;205500;Boomers
+Uruguay;2003;male;5-14 years;1;0.36;272100;G.I. Generation
+Uruguay;2004;male;75+ years;67;95.23;248800;Generation X
+Uruguay;2004;male;55-74 years;101;40.9;73600;G.I. Generation
+Uruguay;2004;male;35-54 years;119;30.95;241800;Generation X
+Uruguay;2004;male;25-34 years;65;26.67;204500;Boomers
+Uruguay;2004;male;15-24 years;56;22.12;349600;Silent
+Uruguay;2004;female;75+ years;14;10.85;273000;Generation X
+Uruguay;2004;female;55-74 years;31;10.21;265000;Generation X
+Uruguay;2004;female;35-54 years;34;8.32;47700;G.I. Generation
+Uruguay;2004;female;15-24 years;17;6.93;239600;G.I. Generation
+Uruguay;2004;female;25-34 years;9;3.72;341200;Silent
+Uruguay;2004;male;5-14 years;4;1.45;74100;G.I. Generation
+Uruguay;2004;female;5-14 years;3;1.14;274100;G.I. Generation
+Uruguay;2005;male;75+ years;55;77.29;207100;Boomers
+Uruguay;2005;male;55-74 years;112;45.18;250800;Generation X
+Uruguay;2005;male;25-34 years;66;27.12;352300;Silent
+Uruguay;2005;male;35-54 years;93;24.05;206100;Boomers
+Uruguay;2005;male;15-24 years;56;22.18;243700;Generation X
+Uruguay;2005;female;75+ years;18;13.64;267000;Generation X
+Uruguay;2005;female;35-54 years;37;9.01;275200;Generation X
+Uruguay;2005;female;55-74 years;26;8.55;48100;G.I. Generation
+Uruguay;2005;female;15-24 years;17;6.95;241400;G.I. Generation
+Uruguay;2005;female;25-34 years;15;6.21;343700;Silent
+Uruguay;2005;female;5-14 years;2;0.76;208700;Boomers
+Uruguay;2005;male;5-14 years;1;0.37;252600;Generation X
+Uruguay;2006;male;75+ years;59;80.67;74600;G.I. Generation
+Uruguay;2006;male;55-74 years;118;47.57;276200;G.I. Generation
+Uruguay;2006;male;25-34 years;64;26.29;354900;Silent
+Uruguay;2006;male;35-54 years;93;23.88;207700;Boomers
+Uruguay;2006;male;15-24 years;56;22.14;245500;Generation X
+Uruguay;2006;female;55-74 years;47;15.48;277200;Generation X
+Uruguay;2006;female;35-54 years;56;13.56;269000;Generation X
+Uruguay;2006;female;75+ years;13;9.54;48500;G.I. Generation
+Uruguay;2006;female;25-34 years;14;5.79;243200;G.I. Generation
+Uruguay;2006;female;15-24 years;6;2.45;346200;Silent
+Uruguay;2006;male;5-14 years;2;0.74;210200;Boomers
+Uruguay;2006;female;5-14 years;0;0;254500;Generation X
+Uruguay;2007;male;75+ years;64;85.57;278400;G.I. Generation
+Uruguay;2007;male;55-74 years;114;45.79;75200;G.I. Generation
+Uruguay;2007;male;35-54 years;128;32.56;209200;Boomers
+Uruguay;2007;male;25-34 years;66;27.22;247300;Generation X
+Uruguay;2007;male;15-24 years;63;24.73;357700;Silent
+Uruguay;2007;female;55-74 years;40;13.18;279300;Generation X
+Uruguay;2007;female;35-54 years;48;11.53;271000;Generation X
+Uruguay;2007;female;75+ years;14;9.97;52000;G.I. Generation
+Uruguay;2007;female;15-24 years;19;7.7;246000;G.I. Generation
+Uruguay;2007;female;25-34 years;14;5.82;339000;Silent
+Uruguay;2007;male;5-14 years;6;2.24;247000;Generation X
+Uruguay;2007;female;5-14 years;0;0;216000;Boomers
+Uruguay;2008;male;75+ years;53;69.7;90000;G.I. Generation
+Uruguay;2008;male;55-74 years;103;41.09;283000;G.I. Generation
+Uruguay;2008;male;35-54 years;131;32.96;358000;Silent
+Uruguay;2008;male;25-34 years;64;26.59;224000;Boomers
+Uruguay;2008;male;15-24 years;57;22.14;240000;Generation X
+Uruguay;2008;female;55-74 years;34;11.17;264000;Generation X
+Uruguay;2008;female;75+ years;16;11.1;275000;Generation X
+Uruguay;2008;female;35-54 years;39;9.28;56310;G.I. Generation
+Uruguay;2008;female;15-24 years;11;4.41;245147;Silent
+Uruguay;2008;female;25-34 years;10;4.18;346669;Boomers
+Uruguay;2008;male;5-14 years;3;1.13;217544;Boomers
+Uruguay;2008;female;5-14 years;2;0.78;262318;Generation X
+Uruguay;2009;male;75+ years;59;76.86;97402;G.I. Generation
+Uruguay;2009;male;55-74 years;99;39.08;294908;Silent
+Uruguay;2009;male;25-34 years;79;33.09;369910;Boomers
+Uruguay;2009;male;35-54 years;107;26.62;225577;Boomers
+Uruguay;2009;male;15-24 years;64;24.59;254841;Generation X
+Uruguay;2009;female;75+ years;14;9.5;267997;Millenials
+Uruguay;2009;female;55-74 years;28;9.15;257605;Millenials
+Uruguay;2009;female;35-54 years;35;8.25;56651;G.I. Generation
+Uruguay;2009;female;15-24 years;13;5.16;245863;Silent
+Uruguay;2009;female;25-34 years;12;5.06;218727;Boomers
+Uruguay;2009;female;5-14 years;1;0.39;351348;Boomers
+Uruguay;2009;male;5-14 years;0;0;267079;Generation X
+Uruguay;2010;male;75+ years;67;87.16;99307;G.I. Generation
+Uruguay;2010;male;55-74 years;106;41.26;297374;Silent
+Uruguay;2010;male;25-34 years;77;32.49;374631;Boomers
+Uruguay;2010;male;15-24 years;69;26.28;258791;Generation X
+Uruguay;2010;male;35-54 years;101;24.86;225646;Boomers
+Uruguay;2010;female;55-74 years;42;13.61;267769;Millenials
+Uruguay;2010;female;75+ years;14;9.31;257110;Millenials
+Uruguay;2010;female;35-54 years;38;8.89;56835;G.I. Generation
+Uruguay;2010;female;25-34 years;18;7.65;246698;Silent
+Uruguay;2010;female;15-24 years;11;4.34;220523;Generation X
+Uruguay;2010;female;5-14 years;3;1.2;356049;Boomers
+Uruguay;2010;male;5-14 years;1;0.38;270288;Generation X
+Uruguay;2012;male;75+ years;65;82.47;101397;G.I. Generation
+Uruguay;2012;male;55-74 years;112;42.5;299569;Silent
+Uruguay;2012;male;35-54 years;144;34.78;379373;Boomers
+Uruguay;2012;male;25-34 years;72;30.64;261360;Generation X
+Uruguay;2012;male;15-24 years;81;30.6;226150;Generation X
+Uruguay;2012;female;55-74 years;36;11.46;257331;Millenials
+Uruguay;2012;female;35-54 years;44;10.14;268243;Millenials
+Uruguay;2012;female;75+ years;14;9.01;58734;G.I. Generation
+Uruguay;2012;female;25-34 years;16;6.87;246654;Silent
+Uruguay;2012;female;15-24 years;12;4.69;360457;Boomers
+Uruguay;2012;male;5-14 years;2;0.78;222786;Generation X
+Uruguay;2012;female;5-14 years;1;0.41;271740;Generation X
+Uruguay;2013;male;75+ years;63;79.65;104408;G.I. Generation
+Uruguay;2013;male;55-74 years;89;33.22;300610;Silent
+Uruguay;2013;male;25-34 years;77;32.85;384280;Boomers
+Uruguay;2013;male;35-54 years;118;28.24;227151;Generation X
+Uruguay;2013;male;15-24 years;73;27.54;262588;Generation X
+Uruguay;2013;female;75+ years;23;14.63;269451;Millenials
+Uruguay;2013;female;35-54 years;38;8.7;258419;Millenials
+Uruguay;2013;female;55-74 years;25;7.86;60421;G.I. Generation
+Uruguay;2013;female;25-34 years;17;7.33;246859;Silent
+Uruguay;2013;female;15-24 years;15;5.86;225600;Generation X
+Uruguay;2013;female;5-14 years;5;2.04;365113;Boomers
+Uruguay;2013;male;5-14 years;3;1.17;271839;Generation X
+Uruguay;2014;male;75+ years;55;69.52;301689;Silent
+Uruguay;2014;male;35-54 years;150;35.61;107408;G.I. Generation
+Uruguay;2014;male;55-74 years;95;34.83;228513;Generation X
+Uruguay;2014;male;25-34 years;81;34.54;389448;Boomers
+Uruguay;2014;male;15-24 years;78;29.44;262647;Generation X
+Uruguay;2014;female;55-74 years;37;11.47;260472;Millenials
+Uruguay;2014;female;35-54 years;45;10.25;271653;Millenials
+Uruguay;2014;female;25-34 years;20;8.63;61835;G.I. Generation
+Uruguay;2014;female;15-24 years;18;7.04;247165;Silent
+Uruguay;2014;female;75+ years;11;6.92;369621;Boomers
+Uruguay;2014;male;5-14 years;1;0.39;228816;Generation X
+Uruguay;2014;female;5-14 years;0;0;270811;Generation X
+Uruguay;2015;male;75+ years;58;73.42;110371;G.I. Generation
+Uruguay;2015;male;55-74 years;133;47.86;394443;Boomers
+Uruguay;2015;male;25-34 years;96;40.75;302651;Silent
+Uruguay;2015;male;35-54 years;135;31.84;230204;Generation X
+Uruguay;2015;male;15-24 years;74;27.97;261707;Generation X
+Uruguay;2015;female;75+ years;17;10.58;274290;Millenials
+Uruguay;2015;female;55-74 years;34;10.38;262973;Millenials
+Uruguay;2015;female;25-34 years;23;9.91;62922;G.I. Generation
+Uruguay;2015;female;35-54 years;38;8.63;247410;Silent
+Uruguay;2015;female;15-24 years;17;6.66;373571;Boomers
+Uruguay;2015;male;5-14 years;3;1.19;232282;Generation X
+Uruguay;2015;female;5-14 years;2;0.83;269133;Generation X
