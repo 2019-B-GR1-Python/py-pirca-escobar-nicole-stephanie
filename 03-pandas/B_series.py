@@ -1,4 +1,4 @@
-import numpy as np
+bimport numpy as np
 import pandas as pd
 
 lista_numeros = [1,2,3,4]
