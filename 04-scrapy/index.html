@@ -1,0 +1,98 @@
+<htm>
+
+    <head>
+        <title>Titulo</title>
+    </head>
+    <style>
+        /*ID
+        # + nombreId
+        */
+        #titulo-uno {
+            background-color: red;
+        }
+
+        /*
+        NOMBRE- ETIQUETA
+        nombre-etiqueta
+        */
+        p {
+            color: white background-color: black;
+        }
+
+        body {
+            background-color: coral;
+        }
+
+        /*
+CLASES
+*/
+        .text-amarillo {
+            color: yellow;
+
+        }
+
+        .fonfo-verde {
+            background-color: green;
+        }
+
+        /*
+JERARQUIA 
+STYLE > ID > CLASE > ETIQUETA
+ultimo definido le gana a anterior definido
+*/
+        .texto-azul {
+            color: blue;
+        }
+
+        .texto-cafe {
+            color: brown;
+        }
+
+        /* Etiqueta dentro de otra */
+ul > li > p {
+    background-color: coral;
+    color: darkgrey;
+}
+li > p.text-amarillo {
+    color: gold;
+
+}
+
+p.texto-azul.text-amarillo.texto-cafe.text-blanco {
+    color: pink !important;
+}
+
+    </style>
+
+    <body>
+        <h1 class="titulo-uno">
+            Titulo
+        </h1>
+
+        <p id=titulo-uno class="fonfo-verde" style="background-color: indigo">mi mama </p>
+        <p>Mi mamá</p>
+        <p>me mima</p>
+        <p class="text-amarillo">Mi mama me mima</p>
+        <ul>
+            <li>
+                <p>
+                    muy
+                </p>
+            <li>
+                <p>Buenos</p>
+            </li>
+            <li><p class="text-amarillo">Dias</p></li>
+            </li>
+        </ul>
+
+
+        <p class="text-blanco texto-azul texto-cafe text-amarillo">
+            me mima
+        </p>
+        <style>
+            .text-blanco {
+                color: white;
+            }
+        </style>
+    </body>
+</htm>
