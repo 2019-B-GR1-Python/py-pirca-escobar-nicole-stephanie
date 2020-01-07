@@ -1,4 +1,4 @@
-import numpy as np
+bimport numpy as np
 import pandas as pd
 
 lista_numeros = [1,2,3,4]
@@ -136,6 +136,7 @@ cuidad_calculada= cuidade_uno.map(calculo)
 
 cuidades_uno.where(cuidades_uno > 1000, 
                    cuidades_uno * 1.05)
+
 
 
 

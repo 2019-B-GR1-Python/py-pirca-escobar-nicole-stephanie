@@ -11,7 +11,7 @@ import os
 import sqlite3
 
 
-path = 'C://Users//NICOLE//Documents//GitHub//py-pirca-escobar-nicole-stephanie//03-pandas//Data//artwork_data.csv'
+path = 'C://Users//USRBET//Documents//GitHub//py-pirca-escobar-nicole-stephanie//03-pandas//Data//artwork_data.csv'
 df = pd.read_csv(
         path,
         nrows = 10)
@@ -102,3 +102,55 @@ chart.add_series({'values': '=Sheet1!$A$1:$A$6'})
 worksheet.insert_chart('C1', chart)
 
 workbook.close()
+
+
+
+###################SQL ######## para exportar a base de datos 
+
+with sqlite3.connect("bdd_artist.db") as conexion:
+    
+    df.to_sql('py_artistas', conexion)
+
+    
+###JSON ##
+
+df.to_json('artistas.json') 
+
+df.to_json('artistas_tabla.json', orient = 'table') 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
