@@ -33,6 +33,7 @@ class AraniaProductosPoint(CrawlSpider):
        
         productos = response.css('div.product-gallery__gallery u-margin-bottom-medium')
        ## precio = response.css('div.product-card')
+       ## pr
 
 
         for producto in productos:
